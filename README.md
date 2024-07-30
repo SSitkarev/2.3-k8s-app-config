@@ -40,8 +40,6 @@
 
 Создать Secret для использования сертификата.
 
-[nginx-secret](https://github.com/SSitkarev/2.3-k8s-app-config/blob/main/src/nginx-secret.yaml)
-
 ![Задание2](https://github.com/SSitkarev/2.3-k8s-app-config/blob/main/img/5.jpg)
 
 Создать Ingress и необходимый Service, 
