@@ -1,0 +1,11 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: multitoolmap
+  namespace: 2-3
+data:
+  HTTP_PORT: '8080'
+  index.html: |
+    <html>
+    <h1>Hello world!</h1>
+    </html>
